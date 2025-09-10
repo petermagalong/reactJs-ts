@@ -1,0 +1,2 @@
+tsc --init 
+npm create vite@latest .
